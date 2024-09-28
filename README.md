@@ -1,4 +1,5 @@
 This code is a simple calculator program written in Python. Here's how it works:
+
 	1	Language: The code is written in Python, a popular programming language known for being easy to read and write.
 	2	Functionality:
 	◦	The calculator offers four basic operations: Add, Subtract, Multiply, and Divide.
